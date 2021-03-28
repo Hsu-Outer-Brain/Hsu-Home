@@ -1,8 +1,8 @@
 # 常用命令
 
 ```bash
-chkconfig --list | grep iptables  # 
-
+# 修改防火墙配置
+chkconfig --list | grep iptables 
 sudo vim /etc/sysconfig/iptables  
 ```
 
