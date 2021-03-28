@@ -1,12 +1,9 @@
 # Table of contents
 
-* [Hsu-Home](README.md)
-
-## 碎碎念
-
-* [杂记](sui-sui-nian/za-ji.md)
-
-## Python
-
-* [常用命令](python/chang-yong-ming-ling.md)
+* [Hsu's-home](README.md)
+* [碎碎念](sui-sui-nian.md)
+* [Linux](linux/README.md)
+  * [常用命令](linux/chang-yong-ming-ling.md)
+* [Python](python-1/README.md)
+  * [常用命令](python-1/chang-yong-ming-ling.md)
 
